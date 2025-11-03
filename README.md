@@ -100,7 +100,7 @@ The script will now process each query, and the links to the final Google Doc re
 
 For a deeper dive into the architecture, philosophy, and advanced usage of this tool, check out our detailed Medium article.
 
-➡️ **[Read the full article on Medium (LINK_TO_YOUR_MEDIUM_ARTICLE_HERE)]**
+➡️ **[Read the full article on Medium](https://medium.com/@stephane.giron/bulk-deep-research-with-gemini-and-google-apps-script-0ff01f5462d0)**
 
 ## License
 
